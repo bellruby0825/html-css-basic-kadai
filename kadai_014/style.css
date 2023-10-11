@@ -1,0 +1,23 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+html{
+    font-size: 20px;
+    text-align: center;
+}
+.decoration{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.5em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.text-color1,.text2,.text4,.text6{
+    color: skyblue;
+}
+.text-color2,.text1,.text3,.text5{
+    color: rgb(255, 192, 203);
+}
+#basic p{
+    font-weight: bold;
+}
